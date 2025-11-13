@@ -2,6 +2,9 @@
 
 Welcome to the personal portfolio website of **Bonnie Tran**, showcasing background, skills, and projects.  
 
+## 🔗 Live Site
+[Bonnie Tran Portfolio](https://bonnie-tran-portfolio.web.app/)
+
 ## 🌸 Overview
 This is a simple, clean, and responsive portfolio website built using **HTML** and **CSS**. The site is designed to highlight Bonnie’s educational background, professional links, and provide quick access to her resume, GitHub, and LinkedIn profiles.  
 
@@ -27,6 +30,3 @@ This is a simple, clean, and responsive portfolio website built using **HTML** a
 - Text sizes adjust for smaller screens.
 - Social buttons stack vertically on mobile for better usability.
 - Hero image scales based on screen width.
-
-## 🔗 Live Site
-[Bonnie Tran Portfolio](https://bonnie-tran-portfolio.web.app/)
